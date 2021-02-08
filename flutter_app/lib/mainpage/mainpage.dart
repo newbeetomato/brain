@@ -11,7 +11,7 @@ class MainPage extends StatelessWidget {
 
     var size = MediaQuery.of(context).size;
     return new Scaffold(
-      backgroundColor: color6,
+      backgroundColor: kSecondaryColor,
 
 
       body: Stack(
